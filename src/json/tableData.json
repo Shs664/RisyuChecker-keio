@@ -1,0 +1,49 @@
+
+        {
+            "sougou_kyoiku":[
+                    {
+                        "id": "1",
+                        "type": "1kei",
+                        "field_number": "",
+                        "graduate_requirement": "6",
+                        "min_credit": "6",
+                        "graduate_credit": "",
+                        "credit_sum": "",
+                        "sum": "",
+                        "excess": ""
+                    },
+                    {
+                        "id": "2",
+                        "type": "2kei",
+                        "field_number": "",
+                        "graduate_requirement": "10",
+                        "min_credit": "10",
+                        "graduate_credit": "",
+                        "credit_sum": "",
+                        "sum": "",
+                        "excess": ""
+                    },
+                    {
+                        "id": "3",
+                        "type": "3kei",
+                        "field_number": "",
+                        "graduate_requirement": "",
+                        "min_credit": "",
+                        "graduate_credit": "",
+                        "credit_sum": "",
+                        "sum": "",
+                        "excess": ""
+                    },
+                    {
+                        "id": "4",
+                        "type": "sougou_kyoiku_sum",
+                        "field_number": "",
+                        "graduate_requirement": "20",
+                        "min_credit": "",
+                        "graduate_credit": "20",
+                        "credit_sum": "",
+                        "sum": "",
+                        "excess": ""
+                    }
+                ]
+        }
